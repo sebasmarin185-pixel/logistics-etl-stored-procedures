@@ -11,7 +11,6 @@ EXEC PASS4
 EXEC PASS5
 END;
 
-
 select * from general
 select * from checgeneral
 select * from chec
